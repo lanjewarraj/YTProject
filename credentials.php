@@ -1,3 +1,3 @@
 <?php
-define("EMAIL","phpexample010@gmail.com");
-define("PASSWORD","_*AZ127_");
+define("EMAIL","<your email address>");
+define("PASSWORD","<your email's password>");
