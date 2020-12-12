@@ -1,0 +1,33 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.container{
+  background-color: lightgreen;
+  padding: 100px 90px;
+  position: absolute;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+}
+.container h3{
+  text-align: center;
+  font-size: 26px;
+  color: #222;
+  padding: 20px 0;
+}
+.container input{
+  width: 200px;
+ height: 40px;
+ border:none;
+ padding: 0 10px;
+}
+.container button{
+  background-color: rgba(132, 127, 127,.8);
+  width: 120px;
+ height: 40px;
+ border:none;
+ color:#333;
+ cursor: pointer;
+ font-weight: bold;
+}
